@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Payroll</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="value">القيمة</string>
+    <string name="n">م</string>
+    <string name="employee_salary">راتب الموظف</string>
+    <string name="net_salary">اجمالي المرتب : %1$s %2$s </string>
+    <string name="allowances">%1$s %2$s الاستحقاقات</string>
+    <string name="deductions">%1$s %2$s الاستقطاعات</string>
+    <string name="total">%1$s %2$s اجمالي المرتب</string>
+    <string name="clause">البند</string>
+    <string name="todo">TODO</string>
+</resources>
